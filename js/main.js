@@ -201,6 +201,7 @@ function map() {
                         closeButton: false
                     });
                     addListeners(chapter);
+                    chapter.bringToFront;
                     return chapter;
 
                 }
