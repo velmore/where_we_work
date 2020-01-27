@@ -1,0 +1,16 @@
+latitude,longitude,altitude,geometry,id,chapter,zoom,alt,image,source-credit,source-link,description
+61.19426597,-149.8750011,,Point,1,Audubon Alaska Headquarters,6,Anchorage,img/needimage.jpg,Source:,https://ak.audubon.org/,"Audubon Alaska is a science-based conservation organization that works to protect birds, other wildlife, and their habitats across Alaska. We use science to identify conservation priorities and support conservation actions and policies, with an emphasis on public lands and waters, and through education we seek to raise public awareness about the natural ecosystems of Alaska. Our office is located in Downtown Anchorage, Alaska. "
+70.04850691,-143.2526703,,Point,2,Arctic National Wildlife Refuge,6,ANWR,img/northern_pintail.jpg,Source:,https://ak.audubon.org/,Add text here. 
+70.58954324,-153.4844929,,Point,3,National Petroleum Reserve - Alaska,6,NPR-A,img/npra.jpg,Source:,https://ak.audubon.org/,Add text here. 
+67.04403679,-154.3544364,,Point,4,"Proposed Ambler Road, Gates of the Arctic National Park",6,Ambler Road,img/gates.jpg,Source:,https://ak.audubon.org/,Add text here. 
+69.91152329,-148.8834698,,Point,5,Central Yukon BLM LUPA,6,Central Yukon LUPA,img/needimage.jpg,Source:,https://ak.audubon.org/,Add text here. 
+65.57705865,-163.5720769,,Point,6,Kobuk-Seward Peninsula BLM LUPA,6,Kobuk-Seward Peninsula LUPA,img/needimage.jpg,Source:,https://ak.audubon.org/,Add text here. 
+61.85741576,-159.7929693,,Point,7,Bering Sea-Western Interior BLM LUPA,6,Bering Sea-Western Interior LUPA,img/needimage.jpg,Source:,https://ak.audubon.org/,Add text here. 
+57.63011225,-159.6171303,,Point,8,Bristol Bay,6,Bristol Bay,img/Bristol_Bay_shore.jpg,Source:,https://ak.audubon.org/,Add text here. 
+55.36310874,-162.4466202,,Point,9,Izembek National Wildlife Refuge,6,Izembek NWR,img/izembek.png,Source:,https://ak.audubon.org/,Add text here. 
+59.2382483,-135.4676832,,Point,10,Haines/Chilkat River Valley,6,Haines/Chilkat River Valley,img/needimage.jpg,Source:,https://ak.audubon.org/,Add text here. 
+58.30367737,-134.4050661,,Point,11,Juneau,6,Juneau,img/needimage.jpg,Source:,https://ak.audubon.org/,Add text here. 
+55.72162768,-132.8350203,,Point,12,Tongass,6,Tongass,img/tongass.jpg,Source:,https://ak.audubon.org/,Add text here. 
+58.253027,-175.657889,,Point,13,Bering Sea,6,Bering Sea,img/bering.png,Source:,https://ak.audubon.org/,Add text here. 
+69.3919433,-171.7715683,,Point,14,Chukchi Sea,6,Chukchi Sea,img/chukchi.jpg,Source:,https://ak.audubon.org/,Add text here. 
+71.39902476,-144.6723593,,Point,15,Beaufort Sea,6,Beaufort Sea,img/beaufort.img,Source:,https://ak.audubon.org/,Add text here. 
