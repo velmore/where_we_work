@@ -225,8 +225,8 @@ function map() {
                 let icon  = ["Audubon Chapters"],
                     icon1 = ["Important Bird Areas"],
                     icon2 = ["Region Boundaries"],
-                    label  = ["img/chapters.png"],
-                    label1 = ["img/iba.png"],
+                    label  = ["img/chapters.PNG"],
+                    label1 = ["img/iba.PNG"],
                     label2 = ["img/boundary.png"];
 
                 // initial add
